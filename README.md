@@ -5,33 +5,31 @@
 Afim de corrigir ~~um problema~~ uma melhoria referente a exibição do SmartForms, sera atualizado o endereco do `local de negocios`. Este pode ser feito seguindo os passos abaixo:
 
 * [Definir local de negocio](#definir-local-de-negocio)
-* [Definir local de negocio](#definir-local-de-negocio)
+* [Empresa](#empresa)
+* [Detalhes](#detalhes)
 
 ## Definir local de negocio ##
 
 Clique em `Definir local de negocios`.
-
-(![N|Solid](https://uploaddeimagens.com.br/images/002/355/670/original/step-01.png?1568827693)
-
+![alt text](https://uploaddeimagens.com.br/images/002/355/670/original/step-01.png?1568827693)
 
 ## Empresa ##
 
 Informar `Empresa`.
-![N|Solid](https://uploaddeimagens.com.br/imagens/step-02-png)
-
+![alt text](https://uploaddeimagens.com.br/imagens/step-02-png)
 
 ## Detalhes ##
 
-Informar `Empresa`.
-![N|Solid](https://uploaddeimagens.com.br/imagens/step-02-png)
+Clicar em `Detalhes`.
+![N|Solid](https://uploaddeimagens.com.br/imagens/step-03-png)
 
+## Endereço ##
 
+Clicar em `Endereço`.
+![N|Solid](https://uploaddeimagens.com.br/imagens/step-04-png)
 
-### public section ###
-Métodos da sessão publica.
-#### search ####
-Este tem como objetivo buscar no banco de dados as informações para que sejam exibidas no relatório.
-```abap
-method search .
-```
-https://uploaddeimagens.com.br/imagens/step-02-png
+## Atualizar Informações ##
+
+Atualizar informações referente ao `Endereço`.
+![N|Solid](https://uploaddeimagens.com.br/imagens/step-05-png)
+
