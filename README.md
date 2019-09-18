@@ -26,17 +26,17 @@ Informar `Empresa`.
 
 Clicar em `Detalhes`.
 
-![alt text](https://uploaddeimagens.com.br/images/002/355/785/original/step-03.png?1568829097)
+![alt text](https://i.ibb.co/q9QxwWN/step-03.png)
 
 ## Endereço ##
 
 Clicar em `Endereço`.
 
-![alt text](https://uploaddeimagens.com.br/images/002/355/788/original/step-04.png?1568829140)
+![alt text](https://i.ibb.co/WkTK5Qg/step-04.png)
 
 ## Atualizar Informações ##
 
 Atualizar informações referente ao `Endereço`.
 
-![alt text](https://uploaddeimagens.com.br/images/002/355/790/original/step-05.png?1568829177)
+![alt text](https://i.ibb.co/tYcGzd0/step-05.png)
 
