@@ -8,7 +8,7 @@ Afim de corrigir ~~um problema~~ uma melhoria referente a exibição do SmartFor
 * [Empresa](#empresa)
 * [Detalhes](#detalhes)
 * [Endereço](#endereço)
-* [Atualizar Informações](#atualizar-informacoes)
+* [Atualizar Informações](#atualizar-informações)
 
 ## Definir local de negocio ##
 
