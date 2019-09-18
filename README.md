@@ -7,6 +7,8 @@ Afim de corrigir ~~um problema~~ uma melhoria referente a exibição do SmartFor
 * [Definir local de negocio](#definir-local-de-negocio)
 * [Empresa](#empresa)
 * [Detalhes](#detalhes)
+* [Endereço](#endereco)
+* [Atualizar Informações](#atualizar-informacoes)
 
 ## Definir local de negocio ##
 
@@ -16,20 +18,20 @@ Clique em `Definir local de negocios`.
 ## Empresa ##
 
 Informar `Empresa`.
-![alt text](https://uploaddeimagens.com.br/imagens/step-02-png)
+![alt text](https://uploaddeimagens.com.br/images/002/355/743/original/step-02.png?1568828480)
 
 ## Detalhes ##
 
 Clicar em `Detalhes`.
-![N|Solid](https://uploaddeimagens.com.br/imagens/step-03-png)
+![alt text](https://uploaddeimagens.com.br/images/002/355/785/original/step-03.png?1568829097)
 
 ## Endereço ##
 
 Clicar em `Endereço`.
-![N|Solid](https://uploaddeimagens.com.br/imagens/step-04-png)
+![alt text](https://uploaddeimagens.com.br/images/002/355/788/original/step-04.png?1568829140)
 
 ## Atualizar Informações ##
 
 Atualizar informações referente ao `Endereço`.
-![N|Solid](https://uploaddeimagens.com.br/imagens/step-05-png)
+![alt text](https://uploaddeimagens.com.br/images/002/355/790/original/step-05.png?1568829177)
 
