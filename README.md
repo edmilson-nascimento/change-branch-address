@@ -14,7 +14,7 @@ Afim de corrigir ~~um problema~~ uma melhoria referente a exibição do SmartFor
 
 Clique em `Definir local de negocios`.
 
-![alt text](https://ibb.co/yqZ07Mk)
+![alt text](https://i.ibb.co/cQZJVp8/step-01.png)
 
 ## Empresa ##
 
