@@ -14,14 +14,16 @@ Clique em `Definir local de negocios`.
 (![N|Solid](https://uploaddeimagens.com.br/images/002/355/670/original/step-01.png?1568827693)
 
 
+## Empresa ##
 
-## Definir local de negocio ##
-
-Clique em `Definir local de negocios`.
-
-(![N|Solid](https://uploaddeimagens.com.br/images/002/355/670/original/step-01.png?1568827693)
+Informar `Empresa`.
+![N|Solid](https://uploaddeimagens.com.br/imagens/step-02-png)
 
 
+## Detalhes ##
+
+Informar `Empresa`.
+![N|Solid](https://uploaddeimagens.com.br/imagens/step-02-png)
 
 
 
@@ -32,3 +34,4 @@ Este tem como objetivo buscar no banco de dados as informações para que sejam 
 ```abap
 method search .
 ```
+https://uploaddeimagens.com.br/imagens/step-02-png
