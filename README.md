@@ -20,7 +20,7 @@ Clique em `Definir local de negocios`.
 
 Informar `Empresa`.
 
-![alt text](https://uploaddeimagens.com.br/images/002/355/743/original/step-02.png)
+![alt text](https://i.ibb.co/Dptdy2R/step-02.png)
 
 ## Detalhes ##
 
